@@ -11,6 +11,17 @@
 </head>
 
 <body>
-	jsp web
+	<h1>JSP Web</h1>
+	<p>로그인</p>
+	<form action="" method="post">
+	<input type="text" name="uid">
+	<input type="text" name="upw">
+	<input type="submit" value="로그인">
+	</form>
+	
+	<a href=""><p>회원가입</p></a>
+	<a href=""><p>게시판</p></a>
+	
+	
 </body>
 </html>
